@@ -26,7 +26,6 @@
       "enabled": false
     }
   },
-
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
